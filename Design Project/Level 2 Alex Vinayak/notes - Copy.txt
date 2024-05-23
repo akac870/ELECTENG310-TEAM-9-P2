@@ -1,0 +1,4 @@
+15 May 24
+- Divided workloads for Alex and Vinayak.
+	- Vinayak room 202-203 and 204-215
+	- Alex room 201, 214-227

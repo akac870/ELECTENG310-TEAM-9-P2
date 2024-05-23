@@ -1,0 +1,7 @@
+offices   - 0.7m
+kitchen   - 0.8m
+reception - 0.8m
+toilet    - 0m (floor)
+corridor  - 0m (floor)
+CAD room  - 1.2m
+Conference - 1.2m

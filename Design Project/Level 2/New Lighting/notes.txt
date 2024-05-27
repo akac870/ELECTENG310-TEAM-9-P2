@@ -2,4 +2,7 @@ procedure for develop new lighting
 
 1. Create copy of floor and work on that.
 2. Delete all existing lighting
-3. 
+3. Create new grid using paste>create raster
+	3a. change grid size to 1.2 X 0.6
+4. Set LLF to 1. Project > maintenance plan method > All inclusive LLF
+5. 

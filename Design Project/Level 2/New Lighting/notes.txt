@@ -1,0 +1,5 @@
+procedure for develop new lighting
+
+1. Create copy of floor and work on that.
+2. Delete all existing lighting
+3. 

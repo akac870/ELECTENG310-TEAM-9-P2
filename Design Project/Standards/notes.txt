@@ -1,0 +1,7 @@
+Recommended illuminance and UGR
+- AS/NZS 1680.2.2:2008
+	- table E1
+
+Recommended uniformity u0
+- Section 3.8
+	- Table 3.1 & 3.2

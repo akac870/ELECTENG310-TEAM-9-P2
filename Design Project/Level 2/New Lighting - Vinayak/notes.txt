@@ -1,0 +1,20 @@
+procedure for develop new lighting
+
+1. Create copy of floor and work on that. - done
+2. Delete all existing lighting - done
+3. Create new grid using paste>create raster - done
+	3a. change grid size to 1.2 X 0.6
+4. Set LLF to 1. Project > maintenance plan method > All inclusive LLF - done
+5. Set Correction factors for individual luminaires. (Correction factor
+	overrides the LLF for a luminaire)
+6. Set appropriates CRI for rooms that require appropriate lighting for viewing products.
+7. Creativity
+	6a. Create populated spaces to show creativity for report.
+	6b. Color temperature across rooms. e.g- warm color lights for
+		director room after hours access.
+
+Anthony recommendation:
+- use U2 ETAP lighting due to efficacy.
+- use low power direct lighting. But use more of them for better uniformity
+- make sure to compare your working with AS/NZS 1680
+- use 1/3 rule of thumb between luminance change across rooms and corridors
